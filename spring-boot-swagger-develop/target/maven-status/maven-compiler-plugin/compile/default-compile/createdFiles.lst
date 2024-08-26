@@ -1,0 +1,10 @@
+com\eurochange\springboot\web\model\ErrorModel.class
+com\eurochange\springboot\SwaggerApplication.class
+com\eurochange\springboot\web\model\ResposeOut.class
+com\eurochange\springboot\web\model\EchoModel.class
+com\eurochange\springboot\web\model\ResposeOut$ResposeOutBuilder.class
+com\eurochange\springboot\web\model\ResponseModel.class
+com\eurochange\springboot\web\model\ResponseModel$ResponseModelBuilder.class
+com\eurochange\springboot\web\model\EchoModel$EchoModelBuilder.class
+com\eurochange\springboot\web\swagger\EchoControllerSwagger.class
+com\eurochange\springboot\web\controller\EchoController.class
